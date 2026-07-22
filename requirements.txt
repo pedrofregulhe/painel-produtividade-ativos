@@ -1,0 +1,9 @@
+# Painel (Streamlit)
+streamlit>=1.50
+pandas>=2.0
+plotly>=5.20
+openpyxl>=3.1
+
+# Extração do Salesforce
+simple-salesforce>=1.12
+rich>=13.0
